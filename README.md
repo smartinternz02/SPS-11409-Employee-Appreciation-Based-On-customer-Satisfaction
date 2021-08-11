@@ -1,6 +1,6 @@
 # SPS-11409-Employee-Appreciation-Based-On-customer-Satisfaction
 Employee Appreciation Based On customer Satisfaction
-This is a group projejct made on Node red and IBM cloud service. Refer to screenshots.
+This is a group project made on Node red and IBM cloud service. Refer to screenshots.
 
 ![WhatsApp Image 2021-08-10 at 23 51 53](https://user-images.githubusercontent.com/88706181/128991808-6c7e076b-eefa-4b36-9b40-9df2f01d4247.jpeg)
 ![WhatsApp Image 2021-08-10 at 23 52 04 (1)](https://user-images.githubusercontent.com/88706181/128991830-11805b7e-75c3-499f-9ce1-dd921bf2cf0a.jpeg)
