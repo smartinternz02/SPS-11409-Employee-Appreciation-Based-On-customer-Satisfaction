@@ -1,0 +1,151 @@
+{
+  "_id": "70bf331fe06c58f64d8dcf23ddbef786",
+  "_rev": "2-1a975106fc981ae627b553109d15bb90",
+  "payload": [
+    {
+      "utterance_id": 0,
+      "utterance_text": "Hello, I'm very happy with your product.",
+      "tones": [
+        {
+          "score": 0.746237,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        },
+        {
+          "score": 0.722374,
+          "tone_id": "polite",
+          "tone_name": "Polite"
+        }
+      ]
+    },
+    {
+      "utterance_id": 1,
+      "utterance_text": "OK, let me know what's going on, please.",
+      "tones": [
+        {
+          "score": 0.92724,
+          "tone_id": "polite",
+          "tone_name": "Polite"
+        }
+      ]
+    },
+    {
+      "utterance_id": 2,
+      "utterance_text": "Well, actually it is working nice:(",
+      "tones": [
+        {
+          "score": 0.74185,
+          "tone_id": "excited",
+          "tone_name": "Excited"
+        },
+        {
+          "score": 0.740839,
+          "tone_id": "satisfied",
+          "tone_name": "Satisfied"
+        }
+      ]
+    },
+    {
+      "utterance_id": 3,
+      "utterance_text": "Sorry to hear that.",
+      "tones": [
+        {
+          "score": 0.730982,
+          "tone_id": "polite",
+          "tone_name": "Polite"
+        },
+        {
+          "score": 0.672499,
+          "tone_id": "sympathetic",
+          "tone_name": "Sympathetic"
+        }
+      ]
+    }
+  ],
+  "socketid": "b2sDfEPmLhAL4QtRAAAi",
+  "cloudant": {
+    "_id": "Monkey D Luffy",
+    "_rev": "2-3523492ae978972d23068fb1722b5773",
+    "conv": [
+      {
+        "text": "Hello, I'm very happy with your product.",
+        "user": "customer"
+      },
+      {
+        "text": "OK, let me know what's going on, please.",
+        "user": "agent"
+      },
+      {
+        "text": "Well, actually it is working nice:(",
+        "user": "customer"
+      },
+      {
+        "text": "Sorry to hear that.",
+        "user": "agent"
+      }
+    ]
+  },
+  "response": {
+    "utterances_tone": [
+      {
+        "utterance_id": 0,
+        "utterance_text": "Hello, I'm very happy with your product.",
+        "tones": [
+          {
+            "score": 0.746237,
+            "tone_id": "excited",
+            "tone_name": "Excited"
+          },
+          {
+            "score": 0.722374,
+            "tone_id": "polite",
+            "tone_name": "Polite"
+          }
+        ]
+      },
+      {
+        "utterance_id": 1,
+        "utterance_text": "OK, let me know what's going on, please.",
+        "tones": [
+          {
+            "score": 0.92724,
+            "tone_id": "polite",
+            "tone_name": "Polite"
+          }
+        ]
+      },
+      {
+        "utterance_id": 2,
+        "utterance_text": "Well, actually it is working nice:(",
+        "tones": [
+          {
+            "score": 0.74185,
+            "tone_id": "excited",
+            "tone_name": "Excited"
+          },
+          {
+            "score": 0.740839,
+            "tone_id": "satisfied",
+            "tone_name": "Satisfied"
+          }
+        ]
+      },
+      {
+        "utterance_id": 3,
+        "utterance_text": "Sorry to hear that.",
+        "tones": [
+          {
+            "score": 0.730982,
+            "tone_id": "polite",
+            "tone_name": "Polite"
+          },
+          {
+            "score": 0.672499,
+            "tone_id": "sympathetic",
+            "tone_name": "Sympathetic"
+          }
+        ]
+      }
+    ]
+  }
+}
